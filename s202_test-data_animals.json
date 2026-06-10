@@ -34,5 +34,11 @@
     "scientificName": "Panthera tigris",
     "habitat": "Forests, grasslands, and mangrove swamps",
     "description": "A large carnivorous cat known for its orange coat with black stripes."
-  }
+  },
+  {
+  "commonName": "Polar Bear",
+  "scientificName": "Ursus maritimus",
+  "habitat": "Arctic region",
+  "description": "A large bear adapted to cold environments."
+}
 ]
