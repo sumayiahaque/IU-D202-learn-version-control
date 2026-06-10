@@ -28,5 +28,11 @@
     "scientificName": "Macropus rufus",
     "habitat": "Australian deserts and open grasslands",
     "description": "The largest marsupial, using powerful hind legs for hopping and a strong tail for balance."
+  },
+  {
+    "commonName": "Tiger",
+    "scientificName": "Panthera tigris",
+    "habitat": "Forests, grasslands, and mangrove swamps",
+    "description": "A large carnivorous cat known for its orange coat with black stripes."
   }
 ]
